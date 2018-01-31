@@ -1,0 +1,15 @@
+{
+    "title": "Lasark",
+    "baseURL": "https:\/\/www.lazzarque.ccom",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759128",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "lazzarque.ccom"
+    }
+}
